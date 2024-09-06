@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.sobre-mim {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.sobre-mim p {
+    width: 60%;
+    line-height: 30px;
+}
+
+.sobre-mim h3 {
+    margin-bottom: 0;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
